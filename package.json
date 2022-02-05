@@ -360,6 +360,43 @@
         "language": "yaml",
         "path": "./snippets/kubernetes.json"
       },
+
+      {
+          "language": "terraform",
+          "path": "./snippets/terraform.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/ansible.posix.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/community.dns.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/snippet_helper.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/ansible.builtin.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/community.general.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/community.postgresql.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/ansible-large-snippets.json"
+      },
+      {
+          "language": "ansible",
+          "path": "./snippets/ansible/ansible-small-snippets.json"
+      },
       {
         "language": "make",
         "path": "./snippets/make.json"

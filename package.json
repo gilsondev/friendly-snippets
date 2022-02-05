@@ -276,6 +276,14 @@
           "path": "./snippets/frameworks/django/templates/filters.json"
       },
       {
+          "language": "drf",
+          "path": "./snippets/frameworks/django/drf/serializers.json"
+      },
+      {
+          "language": "drf",
+          "path": "./snippets/frameworks/django/drf/views.json"
+      },
+      {
         "language": "flutter",
         "path": "./snippets/frameworks/flutter.json"
       },

@@ -248,24 +248,32 @@
         "path": "./snippets/python/unittest.json"
       },
       {
-        "language": "django",
-        "path": "./snippets/frameworks/django/imports.json"
+          "language": "django",
+          "path": "./snippets/frameworks/django/imports.json"
       },
       {
-        "language": "django",
-        "path": "./snippets/frameworks/django/forms.json"
+          "language": "django",
+          "path": "./snippets/frameworks/django/forms.json"
       },
       {
-        "language": "django",
-        "path": "./snippets/frameworks/django/models.json"
+          "language": "django",
+          "path": "./snippets/frameworks/django/models.json"
       },
       {
-        "language": "django",
-        "path": "./snippets/frameworks/django/views.json"
+          "language": "django",
+          "path": "./snippets/frameworks/django/views.json"
       },
       {
-        "language": "django",
-        "path": "./snippets/frameworks/django/filetemplates.json"
+          "language": "django",
+          "path": "./snippets/frameworks/django/filetemplates.json"
+      },
+      {
+          "language": "htmldjango",
+          "path": "./snippets/frameworks/django/templates/tags.json"
+      },
+      {
+          "language": "htmldjango",
+          "path": "./snippets/frameworks/django/templates/filters.json"
       },
       {
         "language": "flutter",

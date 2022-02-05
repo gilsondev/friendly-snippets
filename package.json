@@ -360,7 +360,6 @@
         "language": "yaml",
         "path": "./snippets/kubernetes.json"
       },
-
       {
           "language": "terraform",
           "path": "./snippets/terraform.json"
